@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Cameron Young"
+  text: "Portfolio"
+  tagline: "MIT 6-3, Class of 2025"
   actions:
     - theme: brand
       text: Template Repository
