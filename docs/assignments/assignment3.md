@@ -303,7 +303,6 @@ Promoting
 Profile
 <img src="/../assets/images/a3-images/profile.png" width="500" style="border-radius:2vh">
 
-
 Saving
 <img src="/../assets/images/a3-images/collections.png" width="500" style="border-radius:2vh">
 
