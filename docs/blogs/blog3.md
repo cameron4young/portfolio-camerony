@@ -1,5 +1,5 @@
 ---
-title: Lecture 16 - Design That Matters
+title: Lecture 16 - Design That Matters II
 layout: doc
 ---
 
@@ -10,3 +10,5 @@ In class, we discussed the one-for-one business model implemented by Tom's. Tom'
 After doing a deeper dive into the Wharton article discussed in class, it was evident there were plenty of issues with the way Tom's aimed to give back, but also a lot of opportunity for improvement. As mentioned in class, the article discussed issues such as the creation of dependency, lower demand for local businesses, and complacency from developed world buyers. What happens to people who depend on these shoes when the truck stops coming? How are people meant to feel empowered and elevate themselves while simultaneously receiving a handout (which may diminish self-esteem)? What happens to the economy, specifically the people who sell shoes? 
 
 This case demonstrates the necessity of long-term thinking when it comes to making efforts towards helping others. Simply giving material goods to people is not enough to truly solve systemic issues such as poverty. After receiving criticism, Tom's revised their business model such that their new focus was aimed towards supporting long-term economic growth and wellbeing. To go into more detail, Tom's began donating water for coffee purchases and worked towards developing local manufacturing for donated shoes in Haiti to create jobs. While this approach is much more suitable for tackling systemic issues, approaches such as those from Warby Parker and The Naked Hippie are much better examples of sustainable models, as they are more conscious of potential adverse effects and are designed to integrate long-term solutions that empower local communities rather than creating dependency. Warby Parker's model involves a nominal fee included in all purchases which goes towards giving away glasses and training locals to give eye exams. On the other hand, The Naked Hippie employs a strategy which involves sending profits to microloan organizations. The Naked Hippie CEO describes Tom's model as treating symptoms, Warby Parker's model as treating causes, and The Naked Hippie's approach as restoring health. All in all, one-for-one models are most effective when the goal is to restore health and any potential adverse effects are kept in consideration.
+
+<a href="https://knowledge.wharton.upenn.edu/article/one-one-business-model-social-impact-avoiding-unintended-consequences/">Link to Wharton Article</a>
